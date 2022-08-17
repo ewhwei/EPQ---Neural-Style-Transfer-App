@@ -7,6 +7,7 @@
 
 import UIKit
 import CoreData
+import TensorFlowLite
 
 @main
 class AppDelegate: UIResponder, UIApplicationDelegate {

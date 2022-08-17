@@ -1,0 +1,6 @@
+framework module Pods_Stylized {
+  umbrella header "Pods-Stylized-umbrella.h"
+
+  export *
+  module * { export * }
+}
